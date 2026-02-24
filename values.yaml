@@ -1,8 +1,8 @@
 replicaCount: 2
 
 image:
-  repository: 788203229933.dkr.ecr.eu-north-1.amazonaws.com/simple-python-app
-  tag: "1"
+  repository: "788203229933.dkr.ecr.eu-north-1.amazonaws.com/simple-python-app"
+  tag: "7"
   pullPolicy: IfNotPresent
 
 service:
